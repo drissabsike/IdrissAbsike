@@ -1,7 +1,7 @@
-### Hi there 👋, My name is Driss - aka Full Stack JAVA/Spring Boot/Microservices/Angular & Graphic Designer software engineer
+### Hi there 👋, My name is Driss - aka RingoBot, Full Stack JAVA/Spring Boot/Microservices/Angular & Graphic Designer software engineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Video Games and watch Movies and play sport
 
 ### Soundcloud Playing 🎧
@@ -22,9 +22,5 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
 <img align="left" alt="Anguar" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/okta-spring-boot-2-angular-8-example/master/client/src/favicon.ico" />
-<img align="left" alt="C#" width="26px" src="https://cdn3.iconfinder.com/data/icons/programming-languages-4/222/c-512.png" />
-<img align="left" alt=".NET" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="Java" width="35px" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" />
-<img align="left" alt="PHP" width="35px" src="https://img.icons8.com/ios/452/php-server.png" />
-<img align="left" alt="Power BI" height="40px" width="50px" src="https://img.icons8.com/color/452/power-bi.png" />
 
